@@ -1,3 +1,3 @@
 # factsnap
 
-![](FactSnap-Portfolio.gif)
+![](snapfact-preview.gif)
